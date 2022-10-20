@@ -2,8 +2,6 @@
 
 #### 介绍
     模拟C3P0连接池实现自定义数据库链接池
-    ![image](https://user-images.githubusercontent.com/35647258/197005763-f0917a8c-8a5a-46c6-a52a-86a60ca57004.png)
-
 
 #### 拓展
     拓展点：
