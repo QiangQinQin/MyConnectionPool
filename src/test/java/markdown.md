@@ -166,6 +166,4 @@ public class ConnectionPoolImpl {
 }
 
 ```
-
-
-![](.markdown_images/测试Paste Images into Markdown.png)
+![](.markdown_images/测试PasteImagesIntoMarkdown.png)
