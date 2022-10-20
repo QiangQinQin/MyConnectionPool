@@ -1,7 +1,6 @@
 ### TestMD
 
-![](.markdown_images/测试PasteImagesIntoMarkdown.png)
-![](.链接池项目设计文档_images/getConnection方法实现流程.png)
+
 
 1. gfdgfdgf
    1. fvgfgf
@@ -10,6 +9,11 @@
 > 测试图片
 可直接粘贴进来，底层和md文件在同意目录下
 ![img_2.png](img_2.png)
+
+
+测试PasteImagesIntoMarkdown插件
+![](.markdown_images/测试PasteImagesIntoMarkdown.png)
+![](.链接池项目设计文档_images/getConnection方法实现流程.png)
 
 ```java
 
@@ -170,5 +174,3 @@ public class ConnectionPoolImpl {
 }
 
 ```
-![](.markdown_images/测试PasteImagesIntoMarkdown.png)
-![](.markdown_images/测试PasteImagesIntoMarkdown.png)
