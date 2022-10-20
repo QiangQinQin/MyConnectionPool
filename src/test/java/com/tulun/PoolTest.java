@@ -3,7 +3,7 @@ package com.tulun;
 
 import com.tulun.datasource.PoolDataSource;
 import com.tulun.pool.ConnectionPoolImpl;
-import org.junit.Test;
+//import org.junit.Test;
 
 import java.io.FileInputStream;
 import java.sql.Connection;
@@ -16,7 +16,7 @@ import java.util.Properties;
 public class PoolTest {
     public static void main(String[] args) throws Exception {
         Properties pro = new Properties();
-        pro.load(new FileInputStream("D:\\Java\\上课代码\\ConnectionPool\\src\\test\\resources\\jdbc.properties"));
+        pro.load(new FileInputStream("src/test/resources/jdbc.properties"));
 
         String driverName = pro.getProperty("driverName");
         String url = pro.getProperty("url");
@@ -47,8 +47,8 @@ public class PoolTest {
             }).start();
         }
     }
-
-    @Test
-    public void testjdbc() throws Exception {
-    }
+//
+//    @Test
+//    public void testjdbc() throws Exception {
+//    }
 }
